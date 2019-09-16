@@ -22,10 +22,14 @@
     "@nestjs/common": "^6.0.0",
     "@nestjs/core": "^6.0.0",
     "@nestjs/platform-express": "^6.0.0",
+    "config": "^3.2.2",
     "echojs-lib": "^1.6.2",
+    "log4js": "^5.1.0",
+    "raven": "^2.6.4",
     "reflect-metadata": "^0.1.12",
     "rimraf": "^2.6.2",
-    "rxjs": "^6.3.3"
+    "rxjs": "^6.3.3",
+    "util": "^0.12.1"
   },
   "devDependencies": {
     "@nestjs/testing": "^6.0.0",
