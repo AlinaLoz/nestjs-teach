@@ -4,7 +4,7 @@ import {ITest} from "../services/test.interface";
 
 @Controller()
 export class AppController {
-  constructor(@Inject('ITest') private readonly testService: ITest) {}
+  constructor(@Inject('Test') private readonly testService: ITest) {}
 
   @Get('1')
   getHello(): void {
