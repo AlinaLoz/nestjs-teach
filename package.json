@@ -26,7 +26,7 @@
     "config": "^3.2.2",
     "cryptoapi-lib": "0.0.1-rc.3",
     "echojs-lib": "^1.6.2",
-    "log4js": "^5.1.0",
+    "log4js": "^6.4.0",
     "raven": "^2.6.4",
     "reflect-metadata": "^0.1.12",
     "rimraf": "^2.6.2",
